@@ -27,7 +27,6 @@
 * [Wired - 月刊](05_wired), 每月2号更新
 * [彭博社商业周刊 - 周刊](./10_bloomberg_businessweek/)
 * [国家地理 - 月刊](./11_national_geographic/)
-* [哈佛商业评论2020年全集](./Harvard-Business-Review-USA-2020-Full-Year-Collection)
 * [国家地理(美国) - 2020年全集](./11_national_geographic/2020/)
 
 **如何选择杂志 ? 请参考下面两篇文章**
